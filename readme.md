@@ -25,3 +25,6 @@ function run(wsapi_env)
 end
 ```
 
+This module was put together by Hisham Muhammad, based on
+insights on the matter in the lua-l mailing list by
+Bjorn Kalkbrenner and Raphael Szwarc.
