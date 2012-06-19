@@ -19,7 +19,7 @@ description = {
 
 dependencies = {
    "wsapi",
-   "base64",
+   "lbase64",
 }
 
 build = {
