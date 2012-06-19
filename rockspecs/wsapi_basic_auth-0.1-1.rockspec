@@ -2,7 +2,8 @@ package = "WSAPI-Basic_Auth"
 version = "0.1-1"
 
 source = {
-   url = "",
+   url = "git://github.com/keplerproject/wsapi_basic_auth.git",
+   tag = "v0.1",
 }
 
 description = {
