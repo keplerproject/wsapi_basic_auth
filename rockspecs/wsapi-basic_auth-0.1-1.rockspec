@@ -10,7 +10,7 @@ description = {
   summary =  "HTTP Basic Authentication for WSAPI",
 
   detailed = [[
-     A module implemented HTTP basic access authentication for WSAPI.
+     A module implementing HTTP basic access authentication for WSAPI.
      This provides a run() function that wraps around the run() function
      for your WSAPI handler.
   ]],
