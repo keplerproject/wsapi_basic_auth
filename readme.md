@@ -1,3 +1,6 @@
+**This repository is now archived. wsapi_basic_auth was moved to the samples/ folder of the WSAPI repository.**
+
+---
 
 # wsapi.basic_auth
 
